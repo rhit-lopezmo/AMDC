@@ -1,1 +1,7 @@
+# ignore these files
 /bin/
+/target/
+.*
+
+# don't ignore these files
+!.gitignore
